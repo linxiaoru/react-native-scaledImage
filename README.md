@@ -1,6 +1,6 @@
 # react-native-scaledImage
 
-A Image component which can be sacled written in pure javascript for cross-platform support.
+An Image component which can be sacled written in pure javascript for cross-platform support.
 
 ### Documentation
 
@@ -15,7 +15,7 @@ A Image component which can be sacled written in pure javascript for cross-platf
 
 // or
 <ScaledImage uri={image} >
-  {... some other View or Text}
+  {... some other View tag }
 </ScaledImage>
 ```
 	
