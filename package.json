@@ -1,0 +1,27 @@
+{
+  "name": "react-native-scaledImage",
+  "version": "0.1.0",
+  "description": "react-native-scaledImage",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linxiaoru/react-native-scaledImage"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-scaledImage",
+    "scaledImage"
+  ],
+  "author": {
+    "name": "linxiaoru",
+    "email": "linxiaoruxr@163.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linxiaoru/react-native-scaledImage/issues"
+  },
+  "homepage": "https://github.com/linxiaoru/react-native-scaledImage#readme"
+}
