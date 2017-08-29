@@ -9,16 +9,8 @@ A Image component which can be sacled written in pure javascript for cross-platf
 - width number, width of the image, optional
 - height number, width of the image, optional
 
-#### Step 1 - install
-```
-npm install react-native-scaledImage --save
-```
-
-	
-#### Step 2 - import and use in project
+#### Usage
 ```javascript
-import scaledImage from 'react-native-scaledImage';
-
 <ScaledImage uri={image} />
 
 // or
